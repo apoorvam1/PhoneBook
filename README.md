@@ -12,6 +12,6 @@ Create a new contact
 
 *Build management - Gradle*
 
-Run `gradle clean build` compile to compile the code base.
+Run `gradle clean build` to compile the code base.
 
 The compiled classes will be generated at the `build` folder. You can also see that the compiled classes for proto files will be generated at `build/generated/source/proto/main/java/phonebook`
